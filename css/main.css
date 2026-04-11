@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    margin: 0;
+}
+
+p {
+    margin: .5em;
+}
+
+.help {
+    width: 50%;
+    margin: auto;
+    padding: 1em;
+    text-align: center;
+}
+
+.emote {
+    width: 25%;
+}
